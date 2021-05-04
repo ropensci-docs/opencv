@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6d88b770392d7208b109ee8742016f3caa61f014",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2021-05-04 13:18:43",
+    "files": 1,
+    "merge": false,
+    "message": "Remove lazydata\n"
+  },
+  "remote": "https://github.com/ropensci/opencv",
+  "pkg": "opencv"
+}
