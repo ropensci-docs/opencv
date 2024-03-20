@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/opencv/404.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/opencv/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/opencv/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/opencv/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/opencv/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/opencv/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/opencv/reference/ocv_keypoints.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/opencv/reference/opencv-area.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/opencv/reference/opencv.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/opencv/reference/qrcode.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/opencv/reference/reexports.html</loc>
+  </url>
+</urlset>

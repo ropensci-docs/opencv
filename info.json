@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "db52b77d819e432621d43a5033869dc29ec136af",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2024-03-20 14:55:45",
+    "files": 2,
+    "merge": false,
+    "message": "Condition use of QR scanner for Debian 10\nFixes #41\n"
+  },
+  "repo": "https://github.com/ropensci/opencv",
+  "pkg": "opencv"
+}
