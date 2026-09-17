@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "223ac3b7b237b5c9167fd24b4f0ff1d47eb29f5d",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-09-17T08:35:49Z",
+    "files": 2,
+    "merge": false,
+    "message": "Dummy bump\n"
+  },
+  "repo": "https://github.com/ropensci/opencv",
+  "pkg": "opencv",
+  "time": "2026-09-17T09:36:23Z"
+}
